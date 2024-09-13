@@ -1,4 +1,4 @@
-<img src="./banner2.png"/>
+<img src="./banner_ryan.png"/>
 <div align=center>
 <h2>Olá Mundo! 👋 Meu nome é Ryan.</h2>
 <h4><strong>Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação!</strong></h4>
