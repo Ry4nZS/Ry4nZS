@@ -7,7 +7,7 @@
 
 <!-- Intro  -->
 <h2>Olá Mundo! 👋 Meu nome é Ryan.</h2>
-<h4><strong>Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação!</strong></h4>
+<h4><strong>Sou um estudante cursando Análise e Desenvolvimento de Sistemas na FATEC!</strong></h4>
 </div>
 <h2>Sobre mim</h2><br>
 <ul>
@@ -25,6 +25,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+	[![My Skills](https://skillicons.dev/icons?i=java,python,cs,c,php,mysql,html,css,js,linux)](https://skillicons.dev)
 </div><br>
 <!-- Contato -->
 <h2 align = left>✉️ Conecte-se comigo! </h2>
