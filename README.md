@@ -18,7 +18,7 @@
 <!-- Tecnologias  -->
 <h2 align = left>💻 Stack de Tecnologias</h2><br>
 <div align=left>
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,c,php,mysql,html,css,js,linux)](https://skillicons.dev)
+<img width="50" src="[![My Skills]https://skillicons.dev/icons?i=java,python,cs,c,php,mysql,html,css,js,linux)](https://skillicons.dev)" alt="tecnologias" title="stacks"/>
 </div><br>
 <!-- Contato -->
 <h2 align = left>✉️ Conecte-se comigo! </h2>
