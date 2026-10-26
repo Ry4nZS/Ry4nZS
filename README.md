@@ -10,7 +10,7 @@
 
 ### Meu nome é Ryan.
 
-**Estudante de Análise e Desenvolvimento de Sistemas** e desenvolvedor de software, atualmente atuando como Estagiário de Engenharia de Software no **@Itaú Unibanco**.
+**Estudante de Análise e Desenvolvimento de Sistemas** e desenvolvedor de software, atualmente atuando como Engenheiro de Software Júnior no **@Itaú Unibanco**.
 
 </div>
 
